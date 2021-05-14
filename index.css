@@ -1,0 +1,26 @@
+copyrightContainer {
+    position: fixed;
+    left: 50%;
+    bottom: 0.2rem;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+}
+
+.copyrightContainerText {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    color: #FFF;
+}
+
+body {
+    background-color: #333;
+}
+
+.toast {
+    opacity: 0;
+}
+
+#toast {
+    opacity: 0;
+}
